@@ -34,7 +34,7 @@
                         <input type="password" name="password_2">
                 </div>
                 <div class="input-group">
-                        <button type="submit" class="btn bg-cyan-800 hover:bg-blue-800 hover:duration-500 text-light" name="register_btn"> + Create user</button>
+                        <button type="submit" class="btn btn-success" name="register_btn"> + Create user</button>
                 </div>
 
                 <a href="home.php" class="text-red-800 hover:text-red-500 text-decoration-underline hover:duration-500">&lt;&lt; back to home </a>
